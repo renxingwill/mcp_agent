@@ -1,0 +1,5 @@
+# Python virtual environment
+mcp_venv/
+
+# Environment variables
+.env
